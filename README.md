@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Tushar Nair
-- 👀 I’m interested in Game, Web development and Blockchains
-- 🌱 I’m currently learning the Ins and Outs of Unity
-- 💞️ I’m looking to collaborate on any Fullstack or Game Dev project for some hands-on experience
+- 👋 hi, i’m tushar nair
+- 🐳 i like to make silly projects every now and then
 - 📫 tusharnair02@gmail.com // +91 7550091499
 
 <!---
